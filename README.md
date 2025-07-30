@@ -1,8 +1,8 @@
 ## Hi there 👋 
-- Physics by education
+- Physicist by education
 - Background in scientific research - plasma physics
 - Interests: Numerical simulations, Machine Learning, Data Science
-- Stack: Python, Pandas, Scikit-learn, PyTorch, MySQL, C++
+- Stack: Python: Pandas, Numpy, Scikit-learn, PyTorch; MySQL, C++
 
 ## Projects
 
