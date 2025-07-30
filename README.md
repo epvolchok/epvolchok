@@ -1,4 +1,4 @@
-## Hi there 👋 I am an early-career Data Scientist/ML specialist
+## Hi there 👋 
 - Physics by education
 - Background in scientific research - plasma physics
 - Interests: Numerical simulations, Machine Learning, Data Science
